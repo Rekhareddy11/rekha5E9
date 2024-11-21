@@ -23,13 +23,13 @@ link_to_be_displayed
 import  
 print("hello world")  
 a=9,b=7
-print("addition:",a+b)
-print("subtaction:",a-b)
-print("multiplication:",a*b)
-print("division:",a/b)
-print("modulo:",a%b)
-number=6
-dec_num=6.786
-word="name"
-subject=[maths","science","history"]
-marks={"maths":78,"science":87,"history":90}
+print("addition:",a+b)  
+print("subtaction:",a-b)  
+print("multiplication:",a*b)  
+print("division:",a/b)  
+print("modulo:",a%b)  
+number=6  
+dec_num=6.786  
+word="name"  
+subject=[maths","science","history"]  
+marks={"maths":78,"science":87,"history":90}  
