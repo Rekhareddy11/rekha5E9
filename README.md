@@ -1,6 +1,6 @@
 1. defination of machine learning?  
    -why ML?  
-   -query examples
+   -query examples  
    -database
    -data mining
    2.traditional approach vs machine learning how to create numbered list
