@@ -1,5 +1,5 @@
-1. defination of machine learning?
-   -why ML?
+1. defination of machine learning?  
+   -why ML?  
    -query examples
    -database
    -data mining
