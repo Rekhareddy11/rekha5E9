@@ -33,5 +33,5 @@ dec_num=6.786
 word="name"  
 subject=[maths","science","history"]  
 marks={"maths":78,"science":87,"history":90}  
-| serial.no | | title | | link |
-|-----------| |-------| |------|
+| s.no | | title | | link |  
+|------| |-------| |------|  
